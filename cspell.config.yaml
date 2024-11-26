@@ -1,0 +1,15 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - endtemplate
+  - mocktail
+  - Postgrest
+  - powersync
+  - retryable
+  - supabase
+  - todos
+  - upsert
+ignoreWords: []
+import: []
